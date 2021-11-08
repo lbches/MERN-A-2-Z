@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Skeleton 2.0
 
 - \*Looking for the first edition code? [Check here]
@@ -46,3 +47,6 @@ Things you'll learn in this book:
 - Implement user authentication and authorization using JSON web tokens
 - Set up and use React 360 to develop user interfaces with VR capabilities
 - Make your MERN stack applications reliable and scalable with industry best practices
+=======
+
+>>>>>>> 7ef584b2e87489d67fd47ce4b62697787a77d4bb
