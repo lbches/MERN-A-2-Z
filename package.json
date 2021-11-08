@@ -13,9 +13,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lbches/mern-skeleton.git"
+    "url": "https://github.com/lbches/Mern-Skeleton-app.git"
   },
-  "homepage": "https://github.com/lbches/mern-skeleton",
+  "homepage": "https://github.com/lbches/Mern-Skeleton-app",
   "main": "./dist/server.generated.js",
   "scripts": {
     "development": "nodemon",
